@@ -1,5 +1,0 @@
-elements=input('enter the elements with space=')
-my_lst=list(map(int,elements.split()))
-unique_lst=list(set(my_lst))
-print("org elements",elements)
-print("unique elements",unique_lst)
